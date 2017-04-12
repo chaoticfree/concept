@@ -12,6 +12,17 @@ To be a formal partner, you must be one of the following:
 - Cohorts and networks of loosely-connected individuals working within and on behalf of these communities; 
 - Individual with deep connections to their own community and with expertise or experience in one or preferably several of: digital security technology, organisational capacity, adult learning or movement leadership.
 
+## How are partners politically aligned?
+
+DSX partners pledge to:
+
+- Do no harm.
+- Create safe spaces to exchange and share experience.
+- Go beyond tools to reach contextually appropriate strategies that address the concrete realities of participants.
+- Commit to a feminist politics such as by encouraging codes of conduct or other mechanisms to ensure the empowerment and safety of women and non-gender conforming individuals.
+- Avoid a technocratic lens, instead playing an intentionally supportive role on a narrow front of struggle through solidarity.
+- [intersectionality: specific list]
+
 ## What do DSX partners do? 
 
 In practical terms, DSX formal partners: 
@@ -21,4 +32,3 @@ In practical terms, DSX formal partners:
 - Develop and implement a strict vetting system for volunteer capacity builders to ensure technical expertise and cultural sensitivity. 
 - Work with other DSX partners to identify funding opportunities to move resources to communities and trainers.
 - Collaborate on a set of guiding principles and processes underlying the DSX platform, including its approach to curriculum development, it’s strategy for connecting those in need with qualified assistance, and its mission to build digital security capacity for frontline communities and civil society organizations.  
-- Pledge to “do no harm.”

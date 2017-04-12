@@ -1,17 +1,19 @@
 # Terms of partnership
 
 ## Who are formal partners?
-Formal partners of the DSX are community intermediaries and points of contact for organizations, networks, and individuals looking for digital security training assistance and capacity. They act as connectors and verifiers as they bring  organizational leaders, organizers, and technologists to the exchange platform. 
 
-In addition, formal partners collaborate to verify and vet incoming capacity building volunteers, ensuring that only trainers with a high degree of technical knowledge and cultural sensitivity are connected to those seeking assistance. 
+Formal partners of the DSX are community intermediaries and points of contact for organizations, networks, and individuals looking for digital security training assistance and capacity. They act as connectors in a growing circle of trust by bringing  organizational leaders, organizers, and technologists to the exchange platform. 
+
+In addition, formal partners establish criteria and evaluate incoming capacity building volunteers to ensure that trainers are properly matched to communities in terms of technical knowledge, political alignment, sector experience and social identity.
 
 To be a formal partner, you must be one of the following: 
 
-- A movement or technology organization working with frontline communities, including but not limited to African American, South Asian, Muslim American, Latino, immigrant, refugee, LGBTQ, women’s rights, journalists, religious minorities, and other communities; 
+- A movement or technology organization working with frontline communities including but not limited to African American, South Asian, Muslim American, Latino, Indigenous, immigrant, refugee, LGBTQ, human rights, women's rights, journalists, religious minorities, and other communities; 
 - Cohorts and networks of loosely-connected individuals working within and on behalf of these communities; 
-- Individual technology experts, capacity builders, or movement leaders with deep connections to either tech communities or frontline communities. 
+- Individual with deep connections to their own community and with expertise or experience in one or preferably several of: digital security technology, organisational capacity, adult learning or movement leadership.
 
 ## What do DSX partners do? 
+
 In practical terms, DSX formal partners: 
 
 - Identify requests for assistance and route them through the DSX network. 
